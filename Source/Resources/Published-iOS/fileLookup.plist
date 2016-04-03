@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>filenames</key>
+	<dict>
+		<key>Sound/click.wav</key>
+		<string>Sound/click.caf</string>
+		<key>Sound/collide.wav</key>
+		<string>Sound/collide.caf</string>
+		<key>Sound/explosion.wav</key>
+		<string>Sound/explosion.caf</string>
+		<key>Sound/fire.wav</key>
+		<string>Sound/fire.caf</string>
+		<key>Sound/retry.wav</key>
+		<string>Sound/retry.caf</string>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>version</key>
+		<integer>1</integer>
+	</dict>
+</dict>
+</plist>

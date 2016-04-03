@@ -1,0 +1,1248 @@
+{
+    "assets": [
+        {
+            "asset": "Source/Resources/Icons/Settings.png", 
+            "target": "Settings.png"
+        }, 
+        {
+            "asset": "Source/AdMob/README.txt", 
+            "target": "README.txt"
+        }, 
+        {
+            "asset": "Source/Resources/Default@2x.png", 
+            "target": "Default@2x.png"
+        }, 
+        {
+            "asset": "Source/Resources/Icons/iPad@2x.png", 
+            "target": "iPad@2x.png"
+        }, 
+        {
+            "asset": "Source/Resources/Icons/iPad.png", 
+            "target": "iPad.png"
+        }, 
+        {
+            "asset": "Source/Resources/Icons/iPad-old@2x.png", 
+            "target": "iPad-old@2x.png"
+        }, 
+        {
+            "asset": "Source/Resources/Icons/iPhone-old@2x.png", 
+            "target": "iPhone-old@2x.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/configCocos2d.plist", 
+            "target": "Published-iOS/configCocos2d.plist"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/fileLookup.plist", 
+            "target": "Published-iOS/fileLookup.plist"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/MainScene.ccbi", 
+            "target": "Published-iOS/MainScene.ccbi"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/spriteFrameFileList.plist", 
+            "target": "Published-iOS/spriteFrameFileList.plist"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/StartScene.ccbi", 
+            "target": "Published-iOS/StartScene.ccbi"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Strings.ccbLang", 
+            "target": "Published-iOS/Strings.ccbLang"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/background/resources-phone/background.png", 
+            "target": "Published-iOS/Art/background/resources-phone/background.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/background/resources-phone/black_alpha.png", 
+            "target": "Published-iOS/Art/background/resources-phone/black_alpha.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/background/resources-phone/stars_large.png", 
+            "target": "Published-iOS/Art/background/resources-phone/stars_large.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/background/resources-phone/stars_random_1.png", 
+            "target": "Published-iOS/Art/background/resources-phone/stars_random_1.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/background/resources-phone/stars_random_2.png", 
+            "target": "Published-iOS/Art/background/resources-phone/stars_random_2.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/background/resources-phone/stars_small.png", 
+            "target": "Published-iOS/Art/background/resources-phone/stars_small.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/background/resources-phone/white_alpha.png", 
+            "target": "Published-iOS/Art/background/resources-phone/white_alpha.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/background/resources-phonehd/background.png", 
+            "target": "Published-iOS/Art/background/resources-phonehd/background.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/background/resources-phonehd/black_alpha.png", 
+            "target": "Published-iOS/Art/background/resources-phonehd/black_alpha.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/background/resources-phonehd/stars_large.png", 
+            "target": "Published-iOS/Art/background/resources-phonehd/stars_large.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/background/resources-phonehd/stars_random_1.png", 
+            "target": "Published-iOS/Art/background/resources-phonehd/stars_random_1.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/background/resources-phonehd/stars_random_2.png", 
+            "target": "Published-iOS/Art/background/resources-phonehd/stars_random_2.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/background/resources-phonehd/stars_small.png", 
+            "target": "Published-iOS/Art/background/resources-phonehd/stars_small.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/background/resources-phonehd/white_alpha.png", 
+            "target": "Published-iOS/Art/background/resources-phonehd/white_alpha.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/directions/resources-phone/achievement.png", 
+            "target": "Published-iOS/Art/directions/resources-phone/achievement.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/directions/resources-phone/swipe_arrow.png", 
+            "target": "Published-iOS/Art/directions/resources-phone/swipe_arrow.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/directions/resources-phone/swipe_finger.png", 
+            "target": "Published-iOS/Art/directions/resources-phone/swipe_finger.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/directions/resources-phone/tap_finger.png", 
+            "target": "Published-iOS/Art/directions/resources-phone/tap_finger.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/directions/resources-phonehd/achievement.png", 
+            "target": "Published-iOS/Art/directions/resources-phonehd/achievement.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/directions/resources-phonehd/swipe_arrow.png", 
+            "target": "Published-iOS/Art/directions/resources-phonehd/swipe_arrow.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/directions/resources-phonehd/swipe_finger.png", 
+            "target": "Published-iOS/Art/directions/resources-phonehd/swipe_finger.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/directions/resources-phonehd/tap_finger.png", 
+            "target": "Published-iOS/Art/directions/resources-phonehd/tap_finger.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/fonts/Fipps-Regular.ttf", 
+            "target": "Published-iOS/Art/fonts/Fipps-Regular.ttf"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/fruits/resources-phone/apple.png", 
+            "target": "Published-iOS/Art/fruits/resources-phone/apple.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/fruits/resources-phone/apple_dissolve_1.png", 
+            "target": "Published-iOS/Art/fruits/resources-phone/apple_dissolve_1.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/fruits/resources-phone/apple_dissolve_2.png", 
+            "target": "Published-iOS/Art/fruits/resources-phone/apple_dissolve_2.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/fruits/resources-phone/apple_dissolve_3.png", 
+            "target": "Published-iOS/Art/fruits/resources-phone/apple_dissolve_3.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/fruits/resources-phone/banana.png", 
+            "target": "Published-iOS/Art/fruits/resources-phone/banana.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/fruits/resources-phone/banana_dissolve_1.png", 
+            "target": "Published-iOS/Art/fruits/resources-phone/banana_dissolve_1.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/fruits/resources-phone/banana_dissolve_2.png", 
+            "target": "Published-iOS/Art/fruits/resources-phone/banana_dissolve_2.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/fruits/resources-phone/banana_dissolve_3.png", 
+            "target": "Published-iOS/Art/fruits/resources-phone/banana_dissolve_3.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/fruits/resources-phone/grape.png", 
+            "target": "Published-iOS/Art/fruits/resources-phone/grape.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/fruits/resources-phone/grape_dissolve_1.png", 
+            "target": "Published-iOS/Art/fruits/resources-phone/grape_dissolve_1.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/fruits/resources-phone/grape_dissolve_2.png", 
+            "target": "Published-iOS/Art/fruits/resources-phone/grape_dissolve_2.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/fruits/resources-phone/grape_dissolve_3.png", 
+            "target": "Published-iOS/Art/fruits/resources-phone/grape_dissolve_3.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/fruits/resources-phone/orange.png", 
+            "target": "Published-iOS/Art/fruits/resources-phone/orange.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/fruits/resources-phone/orange_dissolve_1.png", 
+            "target": "Published-iOS/Art/fruits/resources-phone/orange_dissolve_1.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/fruits/resources-phone/orange_dissolve_2.png", 
+            "target": "Published-iOS/Art/fruits/resources-phone/orange_dissolve_2.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/fruits/resources-phone/orange_dissolve_3.png", 
+            "target": "Published-iOS/Art/fruits/resources-phone/orange_dissolve_3.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/fruits/resources-phone/pear.png", 
+            "target": "Published-iOS/Art/fruits/resources-phone/pear.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/fruits/resources-phone/pear_dissolve_1.png", 
+            "target": "Published-iOS/Art/fruits/resources-phone/pear_dissolve_1.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/fruits/resources-phone/pear_dissolve_2.png", 
+            "target": "Published-iOS/Art/fruits/resources-phone/pear_dissolve_2.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/fruits/resources-phone/pear_dissolve_3.png", 
+            "target": "Published-iOS/Art/fruits/resources-phone/pear_dissolve_3.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/fruits/resources-phonehd/apple.png", 
+            "target": "Published-iOS/Art/fruits/resources-phonehd/apple.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/fruits/resources-phonehd/apple_dissolve_1.png", 
+            "target": "Published-iOS/Art/fruits/resources-phonehd/apple_dissolve_1.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/fruits/resources-phonehd/apple_dissolve_2.png", 
+            "target": "Published-iOS/Art/fruits/resources-phonehd/apple_dissolve_2.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/fruits/resources-phonehd/apple_dissolve_3.png", 
+            "target": "Published-iOS/Art/fruits/resources-phonehd/apple_dissolve_3.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/fruits/resources-phonehd/banana.png", 
+            "target": "Published-iOS/Art/fruits/resources-phonehd/banana.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/fruits/resources-phonehd/banana_dissolve_1.png", 
+            "target": "Published-iOS/Art/fruits/resources-phonehd/banana_dissolve_1.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/fruits/resources-phonehd/banana_dissolve_2.png", 
+            "target": "Published-iOS/Art/fruits/resources-phonehd/banana_dissolve_2.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/fruits/resources-phonehd/banana_dissolve_3.png", 
+            "target": "Published-iOS/Art/fruits/resources-phonehd/banana_dissolve_3.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/fruits/resources-phonehd/grape.png", 
+            "target": "Published-iOS/Art/fruits/resources-phonehd/grape.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/fruits/resources-phonehd/grape_dissolve_1.png", 
+            "target": "Published-iOS/Art/fruits/resources-phonehd/grape_dissolve_1.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/fruits/resources-phonehd/grape_dissolve_2.png", 
+            "target": "Published-iOS/Art/fruits/resources-phonehd/grape_dissolve_2.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/fruits/resources-phonehd/grape_dissolve_3.png", 
+            "target": "Published-iOS/Art/fruits/resources-phonehd/grape_dissolve_3.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/fruits/resources-phonehd/orange.png", 
+            "target": "Published-iOS/Art/fruits/resources-phonehd/orange.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/fruits/resources-phonehd/orange_dissolve_1.png", 
+            "target": "Published-iOS/Art/fruits/resources-phonehd/orange_dissolve_1.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/fruits/resources-phonehd/orange_dissolve_2.png", 
+            "target": "Published-iOS/Art/fruits/resources-phonehd/orange_dissolve_2.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/fruits/resources-phonehd/orange_dissolve_3.png", 
+            "target": "Published-iOS/Art/fruits/resources-phonehd/orange_dissolve_3.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/fruits/resources-phonehd/pear.png", 
+            "target": "Published-iOS/Art/fruits/resources-phonehd/pear.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/fruits/resources-phonehd/pear_dissolve_1.png", 
+            "target": "Published-iOS/Art/fruits/resources-phonehd/pear_dissolve_1.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/fruits/resources-phonehd/pear_dissolve_2.png", 
+            "target": "Published-iOS/Art/fruits/resources-phonehd/pear_dissolve_2.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/fruits/resources-phonehd/pear_dissolve_3.png", 
+            "target": "Published-iOS/Art/fruits/resources-phonehd/pear_dissolve_3.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/misc/resources-phone/bullet_1.png", 
+            "target": "Published-iOS/Art/misc/resources-phone/bullet_1.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/misc/resources-phone/bullet_2.png", 
+            "target": "Published-iOS/Art/misc/resources-phone/bullet_2.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/misc/resources-phone/bullet_3.png", 
+            "target": "Published-iOS/Art/misc/resources-phone/bullet_3.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/misc/resources-phone/bullet_base.png", 
+            "target": "Published-iOS/Art/misc/resources-phone/bullet_base.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/misc/resources-phone/bullet_dissolve_1.png", 
+            "target": "Published-iOS/Art/misc/resources-phone/bullet_dissolve_1.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/misc/resources-phone/bullet_dissolve_2.png", 
+            "target": "Published-iOS/Art/misc/resources-phone/bullet_dissolve_2.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/misc/resources-phone/puff_1.png", 
+            "target": "Published-iOS/Art/misc/resources-phone/puff_1.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/misc/resources-phone/puff_2.png", 
+            "target": "Published-iOS/Art/misc/resources-phone/puff_2.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/misc/resources-phone/puff_3.png", 
+            "target": "Published-iOS/Art/misc/resources-phone/puff_3.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/misc/resources-phone/sparkling_1_1.png", 
+            "target": "Published-iOS/Art/misc/resources-phone/sparkling_1_1.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/misc/resources-phone/sparkling_1_2.png", 
+            "target": "Published-iOS/Art/misc/resources-phone/sparkling_1_2.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/misc/resources-phone/sparkling_1_3.png", 
+            "target": "Published-iOS/Art/misc/resources-phone/sparkling_1_3.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/misc/resources-phone/sparkling_1_4.png", 
+            "target": "Published-iOS/Art/misc/resources-phone/sparkling_1_4.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/misc/resources-phone/sparkling_2_1.png", 
+            "target": "Published-iOS/Art/misc/resources-phone/sparkling_2_1.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/misc/resources-phone/sparkling_2_2.png", 
+            "target": "Published-iOS/Art/misc/resources-phone/sparkling_2_2.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/misc/resources-phone/sparkling_2_3.png", 
+            "target": "Published-iOS/Art/misc/resources-phone/sparkling_2_3.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/misc/resources-phone/sparkling_2_4.png", 
+            "target": "Published-iOS/Art/misc/resources-phone/sparkling_2_4.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/misc/resources-phonehd/bullet_1.png", 
+            "target": "Published-iOS/Art/misc/resources-phonehd/bullet_1.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/misc/resources-phonehd/bullet_2.png", 
+            "target": "Published-iOS/Art/misc/resources-phonehd/bullet_2.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/misc/resources-phonehd/bullet_3.png", 
+            "target": "Published-iOS/Art/misc/resources-phonehd/bullet_3.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/misc/resources-phonehd/bullet_base.png", 
+            "target": "Published-iOS/Art/misc/resources-phonehd/bullet_base.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/misc/resources-phonehd/bullet_dissolve_1.png", 
+            "target": "Published-iOS/Art/misc/resources-phonehd/bullet_dissolve_1.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/misc/resources-phonehd/bullet_dissolve_2.png", 
+            "target": "Published-iOS/Art/misc/resources-phonehd/bullet_dissolve_2.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/misc/resources-phonehd/puff_1.png", 
+            "target": "Published-iOS/Art/misc/resources-phonehd/puff_1.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/misc/resources-phonehd/puff_2.png", 
+            "target": "Published-iOS/Art/misc/resources-phonehd/puff_2.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/misc/resources-phonehd/puff_3.png", 
+            "target": "Published-iOS/Art/misc/resources-phonehd/puff_3.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/misc/resources-phonehd/sparkling_1_1.png", 
+            "target": "Published-iOS/Art/misc/resources-phonehd/sparkling_1_1.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/misc/resources-phonehd/sparkling_1_2.png", 
+            "target": "Published-iOS/Art/misc/resources-phonehd/sparkling_1_2.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/misc/resources-phonehd/sparkling_1_3.png", 
+            "target": "Published-iOS/Art/misc/resources-phonehd/sparkling_1_3.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/misc/resources-phonehd/sparkling_1_4.png", 
+            "target": "Published-iOS/Art/misc/resources-phonehd/sparkling_1_4.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/misc/resources-phonehd/sparkling_2_1.png", 
+            "target": "Published-iOS/Art/misc/resources-phonehd/sparkling_2_1.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/misc/resources-phonehd/sparkling_2_2.png", 
+            "target": "Published-iOS/Art/misc/resources-phonehd/sparkling_2_2.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/misc/resources-phonehd/sparkling_2_3.png", 
+            "target": "Published-iOS/Art/misc/resources-phonehd/sparkling_2_3.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/misc/resources-phonehd/sparkling_2_4.png", 
+            "target": "Published-iOS/Art/misc/resources-phonehd/sparkling_2_4.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/rainbow/resources-phone/rainbow_1.png", 
+            "target": "Published-iOS/Art/rainbow/resources-phone/rainbow_1.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/rainbow/resources-phone/rainbow_2.png", 
+            "target": "Published-iOS/Art/rainbow/resources-phone/rainbow_2.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/rainbow/resources-phone/rainbow_3.png", 
+            "target": "Published-iOS/Art/rainbow/resources-phone/rainbow_3.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/rainbow/resources-phone/rainbow_4.png", 
+            "target": "Published-iOS/Art/rainbow/resources-phone/rainbow_4.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/rainbow/resources-phone/rainbow_5.png", 
+            "target": "Published-iOS/Art/rainbow/resources-phone/rainbow_5.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/rainbow/resources-phone/rainbow_shading_1.png", 
+            "target": "Published-iOS/Art/rainbow/resources-phone/rainbow_shading_1.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/rainbow/resources-phone/rainbow_shading_2.png", 
+            "target": "Published-iOS/Art/rainbow/resources-phone/rainbow_shading_2.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/rainbow/resources-phone/rainbow_shading_3.png", 
+            "target": "Published-iOS/Art/rainbow/resources-phone/rainbow_shading_3.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/rainbow/resources-phone/rainbow_shading_4.png", 
+            "target": "Published-iOS/Art/rainbow/resources-phone/rainbow_shading_4.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/rainbow/resources-phone/rainbow_shading_5.png", 
+            "target": "Published-iOS/Art/rainbow/resources-phone/rainbow_shading_5.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/rainbow/resources-phonehd/rainbow_1.png", 
+            "target": "Published-iOS/Art/rainbow/resources-phonehd/rainbow_1.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/rainbow/resources-phonehd/rainbow_2.png", 
+            "target": "Published-iOS/Art/rainbow/resources-phonehd/rainbow_2.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/rainbow/resources-phonehd/rainbow_3.png", 
+            "target": "Published-iOS/Art/rainbow/resources-phonehd/rainbow_3.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/rainbow/resources-phonehd/rainbow_4.png", 
+            "target": "Published-iOS/Art/rainbow/resources-phonehd/rainbow_4.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/rainbow/resources-phonehd/rainbow_5.png", 
+            "target": "Published-iOS/Art/rainbow/resources-phonehd/rainbow_5.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/rainbow/resources-phonehd/rainbow_shading_1.png", 
+            "target": "Published-iOS/Art/rainbow/resources-phonehd/rainbow_shading_1.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/rainbow/resources-phonehd/rainbow_shading_2.png", 
+            "target": "Published-iOS/Art/rainbow/resources-phonehd/rainbow_shading_2.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/rainbow/resources-phonehd/rainbow_shading_3.png", 
+            "target": "Published-iOS/Art/rainbow/resources-phonehd/rainbow_shading_3.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/rainbow/resources-phonehd/rainbow_shading_4.png", 
+            "target": "Published-iOS/Art/rainbow/resources-phonehd/rainbow_shading_4.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Art/rainbow/resources-phonehd/rainbow_shading_5.png", 
+            "target": "Published-iOS/Art/rainbow/resources-phonehd/rainbow_shading_5.png"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Nodes/GameOverPopup.ccbi", 
+            "target": "Published-iOS/Nodes/GameOverPopup.ccbi"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Nodes/HowToSwipe.ccbi", 
+            "target": "Published-iOS/Nodes/HowToSwipe.ccbi"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Nodes/HowToTap.ccbi", 
+            "target": "Published-iOS/Nodes/HowToTap.ccbi"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Nodes/Logo.ccbi", 
+            "target": "Published-iOS/Nodes/Logo.ccbi"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Nodes/Multiplier.ccbi", 
+            "target": "Published-iOS/Nodes/Multiplier.ccbi"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Nodes/Rainbow.ccbi", 
+            "target": "Published-iOS/Nodes/Rainbow.ccbi"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Nodes/ShootingFruits.ccbi", 
+            "target": "Published-iOS/Nodes/ShootingFruits.ccbi"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Nodes/TryAgain.ccbi", 
+            "target": "Published-iOS/Nodes/TryAgain.ccbi"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Sound/click.caf", 
+            "target": "Published-iOS/Sound/click.caf"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Sound/collide.caf", 
+            "target": "Published-iOS/Sound/collide.caf"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Sound/explosion.caf", 
+            "target": "Published-iOS/Sound/explosion.caf"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Sound/fire.caf", 
+            "target": "Published-iOS/Sound/fire.caf"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Sound/retry.caf", 
+            "target": "Published-iOS/Sound/retry.caf"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Sprites/Bullet.ccbi", 
+            "target": "Published-iOS/Sprites/Bullet.ccbi"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Sprites/ShootingStar.ccbi", 
+            "target": "Published-iOS/Sprites/ShootingStar.ccbi"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Sprites/Effects/BlackOut.ccbi", 
+            "target": "Published-iOS/Sprites/Effects/BlackOut.ccbi"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Sprites/Effects/Smoke.ccbi", 
+            "target": "Published-iOS/Sprites/Effects/Smoke.ccbi"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Sprites/Effects/Sparkling1.ccbi", 
+            "target": "Published-iOS/Sprites/Effects/Sparkling1.ccbi"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Sprites/Effects/Sparkling2.ccbi", 
+            "target": "Published-iOS/Sprites/Effects/Sparkling2.ccbi"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Sprites/Effects/WhiteOut.ccbi", 
+            "target": "Published-iOS/Sprites/Effects/WhiteOut.ccbi"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Sprites/Fruits/Apple.ccbi", 
+            "target": "Published-iOS/Sprites/Fruits/Apple.ccbi"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Sprites/Fruits/Banana.ccbi", 
+            "target": "Published-iOS/Sprites/Fruits/Banana.ccbi"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Sprites/Fruits/Grape.ccbi", 
+            "target": "Published-iOS/Sprites/Fruits/Grape.ccbi"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Sprites/Fruits/Orange.ccbi", 
+            "target": "Published-iOS/Sprites/Fruits/Orange.ccbi"
+        }, 
+        {
+            "asset": "Source/Resources/Published-iOS/Sprites/Fruits/Pear.ccbi", 
+            "target": "Published-iOS/Sprites/Fruits/Pear.ccbi"
+        }, 
+        {
+            "asset": "Source/Resources/Icons/Settings@2x.png", 
+            "target": "Settings@2x.png"
+        }, 
+        {
+            "asset": "Source/Resources/Default-Landscape~ipad.png", 
+            "target": "Default-Landscape~ipad.png"
+        }, 
+        {
+            "asset": "Source/Resources/Icons/iPhone-old.png", 
+            "target": "iPhone-old.png"
+        }, 
+        {
+            "asset": "Source/Resources/Icons/iPhone.png", 
+            "target": "iPhone.png"
+        }, 
+        {
+            "asset": "Source/Resources/Default-568h@2x.png", 
+            "target": "Default-568h@2x.png"
+        }, 
+        {
+            "asset": "Source/Resources/Icons/iPhone@2x.png", 
+            "target": "iPhone@2x.png"
+        }, 
+        {
+            "asset": "Source/Resources/Default.png", 
+            "target": "Default.png"
+        }, 
+        {
+            "asset": "Source/Resources/Icons/iPad-old.png", 
+            "target": "iPad-old.png"
+        }
+    ], 
+    "config": {
+        "APPLICATION_FULL_NAME": "Fruiteors D.", 
+        "APPLICATION_IDENTIFIER": "com.calvinx3.NomNomFruiteors", 
+        "APPLICATION_NAME": "FruiteorsD_", 
+        "FEATURES": [
+            "opengles2", 
+            "portrait", 
+            "touchscreen", 
+            "multitouch_distinct"
+        ], 
+        "GOOGLE_PLAY_CLIENT_ID": "659555119824", 
+        "ICON": "/Users/calvinng/Documents/ThroughTheFruiteors.spritebuilder/Source/Resources/Icons/iPhone.png", 
+        "ICU_CONFIG": "normal", 
+        "LONG_VERSION": "1.2", 
+        "SHORT_VERSION": "1.3", 
+        "SPLASH_SCREEN_TYPE": "letterbox", 
+        "TEMPLATE_VALUES": {
+            "EXECUTABLE_NAME": "Fruiteors D.", 
+            "PRODUCT_NAME": "Fruiteors D."
+        }
+    }, 
+    "defines": {
+        "NDEBUG": 1, 
+        "NS_BLOCK_ASSERTIONS": 1, 
+        "__IPHONE_OS_VERSION_MIN_REQUIRED": 60000
+    }, 
+    "deps": [
+        "UIKit", 
+        "SystemConfiguration", 
+        "Security", 
+        "QuartzCore", 
+        "MediaPlayer", 
+        "CoreText", 
+        "CoreMotion", 
+        "CoreLocation", 
+        "CoreData", 
+        "AssetsLibrary", 
+        "AddressBook", 
+        "MessageUI", 
+        "CoreTelephony", 
+        "AdSupport", 
+        "iAd", 
+        "OpenGLES", 
+        "OpenAL", 
+        "AudioToolbox", 
+        "AVFoundation", 
+        "UIKit", 
+        "Foundation", 
+        "CoreGraphics", 
+        "GameKitPlus", 
+        "AdMob"
+    ], 
+    "flags": [
+        "-fobjc-arc", 
+        "-fasm-blocks", 
+        {
+            "flag": "-std=gnu99", 
+            "not_type": "c++"
+        }, 
+        {
+            "flag": "-fgnu-keywords", 
+            "not_type": "c++"
+        }, 
+        "-fno-asm", 
+        "-fpascal-strings", 
+        "-Wempty-body", 
+        "-Wshorten-64-to-32", 
+        "-Wno-deprecated-declarations", 
+        "-Wreturn-type", 
+        "-Wswitch", 
+        "-Wparentheses", 
+        "-Wformat", 
+        "-Wuninitialized", 
+        "-Wunused-function", 
+        "-Wunused-value", 
+        "-Wunused-variable", 
+        {
+            "flag": "-Winvalid-offsetof", 
+            "type": "c++"
+        }, 
+        {
+            "flag": "-Wprotocol", 
+            "type": "objc"
+        }, 
+        {
+            "flag": "-Wundeclared-selector", 
+            "type": "objc"
+        }
+    ], 
+    "header_paths": [
+        {
+            "header_path": "Fruiteors D.-generated-files.hmap", 
+            "hmap": {}, 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "Fruiteors D.-own-target-headers.hmap", 
+            "hmap": {}, 
+            "type": "I"
+        }, 
+        {
+            "header_path": "Fruiteors D.-all-target-headers.hmap", 
+            "hmap": {}, 
+            "type": "I"
+        }, 
+        {
+            "header_path": "Fruiteors D.-project-headers.hmap", 
+            "hmap": {
+                "AppDelegate.h": {
+                    "key": "AppDelegate.h", 
+                    "prefix": "Source/", 
+                    "suffix": "AppDelegate.h"
+                }, 
+                "Apple.h": {
+                    "key": "Apple.h", 
+                    "prefix": "Source/", 
+                    "suffix": "Apple.h"
+                }, 
+                "Banana.h": {
+                    "key": "Banana.h", 
+                    "prefix": "Source/", 
+                    "suffix": "Banana.h"
+                }, 
+                "BlackOut.h": {
+                    "key": "BlackOut.h", 
+                    "prefix": "Source/", 
+                    "suffix": "BlackOut.h"
+                }, 
+                "Bullet.h": {
+                    "key": "Bullet.h", 
+                    "prefix": "Source/", 
+                    "suffix": "Bullet.h"
+                }, 
+                "CCNode+AntialisedUpdate.h": {
+                    "key": "CCNode+AntialisedUpdate.h", 
+                    "prefix": "Source/", 
+                    "suffix": "CCNode+AntialisedUpdate.h"
+                }, 
+                "CCNode+ContentSizeUpdate.h": {
+                    "key": "CCNode+ContentSizeUpdate.h", 
+                    "prefix": "Source/", 
+                    "suffix": "CCNode+ContentSizeUpdate.h"
+                }, 
+                "CCNode+Pause.h": {
+                    "key": "CCNode+Pause.h", 
+                    "prefix": "Source/", 
+                    "suffix": "CCNode+Pause.h"
+                }, 
+                "Effect.h": {
+                    "key": "Effect.h", 
+                    "prefix": "Source/", 
+                    "suffix": "Effect.h"
+                }, 
+                "Fruit.h": {
+                    "key": "Fruit.h", 
+                    "prefix": "Source/", 
+                    "suffix": "Fruit.h"
+                }, 
+                "GADAdMobExtras.h": {
+                    "key": "GADAdMobExtras.h", 
+                    "prefix": "Source/AdMob/", 
+                    "suffix": "GADAdMobExtras.h"
+                }, 
+                "GADAdNetworkExtras.h": {
+                    "key": "GADAdNetworkExtras.h", 
+                    "prefix": "Source/AdMob/", 
+                    "suffix": "GADAdNetworkExtras.h"
+                }, 
+                "GADAdSize.h": {
+                    "key": "GADAdSize.h", 
+                    "prefix": "Source/AdMob/", 
+                    "suffix": "GADAdSize.h"
+                }, 
+                "GADBannerView.h": {
+                    "key": "GADBannerView.h", 
+                    "prefix": "Source/AdMob/", 
+                    "suffix": "GADBannerView.h"
+                }, 
+                "GADBannerViewDelegate.h": {
+                    "key": "GADBannerViewDelegate.h", 
+                    "prefix": "Source/AdMob/", 
+                    "suffix": "GADBannerViewDelegate.h"
+                }, 
+                "GADInterstitial.h": {
+                    "key": "GADInterstitial.h", 
+                    "prefix": "Source/AdMob/", 
+                    "suffix": "GADInterstitial.h"
+                }, 
+                "GADInterstitialDelegate.h": {
+                    "key": "GADInterstitialDelegate.h", 
+                    "prefix": "Source/AdMob/", 
+                    "suffix": "GADInterstitialDelegate.h"
+                }, 
+                "GADRequest.h": {
+                    "key": "GADRequest.h", 
+                    "prefix": "Source/AdMob/", 
+                    "suffix": "GADRequest.h"
+                }, 
+                "GADRequestError.h": {
+                    "key": "GADRequestError.h", 
+                    "prefix": "Source/AdMob/", 
+                    "suffix": "GADRequestError.h"
+                }, 
+                "GameCenterHelper.h": {
+                    "key": "GameCenterHelper.h", 
+                    "prefix": "Source/", 
+                    "suffix": "GameCenterHelper.h"
+                }, 
+                "GameOverPopup.h": {
+                    "key": "GameOverPopup.h", 
+                    "prefix": "Source/", 
+                    "suffix": "GameOverPopup.h"
+                }, 
+                "Grape.h": {
+                    "key": "Grape.h", 
+                    "prefix": "Source/", 
+                    "suffix": "Grape.h"
+                }, 
+                "MainScene.h": {
+                    "key": "MainScene.h", 
+                    "prefix": "Source/", 
+                    "suffix": "MainScene.h"
+                }, 
+                "Multiplier.h": {
+                    "key": "Multiplier.h", 
+                    "prefix": "Source/", 
+                    "suffix": "Multiplier.h"
+                }, 
+                "Orange.h": {
+                    "key": "Orange.h", 
+                    "prefix": "Source/", 
+                    "suffix": "Orange.h"
+                }, 
+                "Pear.h": {
+                    "key": "Pear.h", 
+                    "prefix": "Source/", 
+                    "suffix": "Pear.h"
+                }, 
+                "Prefix.pch": {
+                    "key": "Prefix.pch", 
+                    "prefix": "Source/", 
+                    "suffix": "Prefix.pch"
+                }, 
+                "Rainbow.h": {
+                    "key": "Rainbow.h", 
+                    "prefix": "Source/", 
+                    "suffix": "Rainbow.h"
+                }, 
+                "ShootingStar.h": {
+                    "key": "ShootingStar.h", 
+                    "prefix": "Source/", 
+                    "suffix": "ShootingStar.h"
+                }, 
+                "Smoke.h": {
+                    "key": "Smoke.h", 
+                    "prefix": "Source/", 
+                    "suffix": "Smoke.h"
+                }, 
+                "Sparkling1.h": {
+                    "key": "Sparkling1.h", 
+                    "prefix": "Source/", 
+                    "suffix": "Sparkling1.h"
+                }, 
+                "Sparkling2.h": {
+                    "key": "Sparkling2.h", 
+                    "prefix": "Source/", 
+                    "suffix": "Sparkling2.h"
+                }, 
+                "StartScene.h": {
+                    "key": "StartScene.h", 
+                    "prefix": "Source/", 
+                    "suffix": "StartScene.h"
+                }, 
+                "TryAgain.h": {
+                    "key": "TryAgain.h", 
+                    "prefix": "Source/", 
+                    "suffix": "TryAgain.h"
+                }, 
+                "WhiteOut.h": {
+                    "key": "WhiteOut.h", 
+                    "prefix": "Source/", 
+                    "suffix": "WhiteOut.h"
+                }
+            }, 
+            "type": "iquote"
+        }, 
+        {
+            "header_path": "/var/folders/gs/j8xzk1dd42g4rw0_fzqsqmpw0000gn/T/tmpVHoAFd/BUILT_PRODUCTS_DIR/include", 
+            "type": "I"
+        }, 
+        {
+            "header_path": "Source/libs/cocos2d-iphone/external/kazmath/include", 
+            "type": "I"
+        }, 
+        {
+            "header_path": "Source/libs/cocos2d-iphone/external/kazmath/include/kazmath", 
+            "type": "I"
+        }, 
+        {
+            "header_path": "Source/libs/cocos2d-iphone/external/kazmath/include/kazmath/GL", 
+            "type": "I"
+        }, 
+        {
+            "header_path": "Source/libs/cocos2d-iphone/cocos2d", 
+            "type": "I"
+        }, 
+        {
+            "header_path": "Source/libs/cocos2d-iphone/cocos2d/Platforms", 
+            "type": "I"
+        }, 
+        {
+            "header_path": "Source/libs/cocos2d-iphone/cocos2d/Support", 
+            "type": "I"
+        }, 
+        {
+            "header_path": "Source/libs/cocos2d-iphone/cocos2d/Platforms/iOS", 
+            "type": "I"
+        }, 
+        {
+            "header_path": "Source/libs/cocos2d-iphone/cocos2d/Platforms/Mac", 
+            "type": "I"
+        }, 
+        {
+            "header_path": "Source/libs/cocos2d-iphone/external/Chipmunk/objectivec/include", 
+            "type": "I"
+        }, 
+        {
+            "header_path": "Source/libs/cocos2d-iphone/external/Chipmunk/include", 
+            "type": "I"
+        }, 
+        {
+            "header_path": "Source/libs/cocos2d-iphone/cocos2d-ui", 
+            "type": "I"
+        }, 
+        {
+            "header_path": "Source/libs/cocos2d-iphone/cocos2d-ui/CCBReader", 
+            "type": "I"
+        }, 
+        {
+            "header_path": "Source/libs/cocos2d-iphone/external/ObjectAL", 
+            "type": "I"
+        }, 
+        {
+            "header_path": "Source/libs/cocos2d-iphone/external/ObjectAL/Actions", 
+            "type": "I"
+        }, 
+        {
+            "header_path": "Source/libs/cocos2d-iphone/external/ObjectAL/AudioTrack", 
+            "type": "I"
+        }, 
+        {
+            "header_path": "Source/libs/cocos2d-iphone/external/ObjectAL/OpenAL", 
+            "type": "I"
+        }, 
+        {
+            "header_path": "Source/libs/cocos2d-iphone/external/ObjectAL/Session", 
+            "type": "I"
+        }, 
+        {
+            "header_path": "Source/libs/cocos2d-iphone/external/ObjectAL/Support", 
+            "type": "I"
+        }, 
+        {
+            "header_path": "/var/folders/gs/j8xzk1dd42g4rw0_fzqsqmpw0000gn/T/tmpVHoAFd/DERIVED_FILE_DIR/armv7", 
+            "type": "I"
+        }, 
+        {
+            "header_path": "/var/folders/gs/j8xzk1dd42g4rw0_fzqsqmpw0000gn/T/tmpVHoAFd/DERIVED_FILE_DIR", 
+            "type": "I"
+        }
+    ], 
+    "infoplists": [
+        "./Source/Resources/Info.plist"
+    ], 
+    "java_libs": [], 
+    "java_res_dirs": [], 
+    "java_sourcepaths": [], 
+    "java_sources": [], 
+    "libs": [
+        "z", 
+        "sqlite3", 
+        "c++", 
+        "GoogleAdMobAds"
+    ], 
+    "link_flags": [], 
+    "modules": [
+        {
+            "build_cwd": "Source/libs/cocos2d-iphone", 
+            "project": "Chipmunk7-ios", 
+            "project_config": "Release", 
+            "target": "ObjectiveChipmunk-iPhone"
+        }, 
+        {
+            "build_cwd": "Source/libs/cocos2d-iphone", 
+            "project": "cocos2d-ios", 
+            "project_config": "Release", 
+            "target": "cocos2d"
+        }
+    ], 
+    "pchs": [
+        "./Source/Prefix.pch"
+    ], 
+    "sources": [
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Source/AppDelegate.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Source/Apple.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Source/Banana.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Source/BlackOut.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Source/Bullet.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Source/CCNode+AntialisedUpdate.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Source/CCNode+ContentSizeUpdate.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Source/CCNode+Pause.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Source/Effect.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Source/Fruit.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Source/GameCenterHelper.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Source/GameOverPopup.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Source/Grape.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Source/MainScene.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Source/Multiplier.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Source/Orange.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Source/Pear.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Source/Rainbow.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Source/ShootingStar.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Source/Smoke.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Source/Sparkling1.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Source/Sparkling2.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Source/StartScene.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Source/TryAgain.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Source/WhiteOut.m"
+        }, 
+        {
+            "defines": {}, 
+            "flags": [], 
+            "header_paths": [], 
+            "language": "objc", 
+            "source": "Source/main.m"
+        }
+    ], 
+    "storyboards": [], 
+    "type": "app", 
+    "version": "3", 
+    "xcdatamodels": [], 
+    "xcode_project": "ThroughTheFruiteors.xcodeproj", 
+    "xibs": []
+}
